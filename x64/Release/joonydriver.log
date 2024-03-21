@@ -1,0 +1,23 @@
+﻿  Building 'joonydriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\joonydriver.inf
+  Stamping [Version] section with DriverVer=03/20/2024,8.47.55.854
+  driver.c
+  joonydriver.vcxproj -> C:\Users\admin\source\repos\joonydriver\x64\Release\joonydriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\admin\source\repos\joonydriver\x64\Release\joonydriver.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\admin\source\repos\joonydriver\x64\Release\joonydriver\joonydriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\admin\source\repos\joonydriver\x64\Release\joonydriver\joonydriver.cat
+  
